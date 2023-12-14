@@ -24,7 +24,7 @@ For users, the project can be easily accessed by following the git clone process
 To observe the new usability of this web app, you can review the updates made by opening the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There, you will see the updated Web app of Horiseon aimed towards semantics and accessibility of the HTML and CSS codes. 
 
 The Screenshot of the deployed application can be observed in the DemoSample file in the repo  (note: not optimized for mobile and tablets). 
-! [screenshot of index.html](DemoSample/01-html-css-git-challenge-demo.png)
+![alt text](DemoSample/01-html-css-git-challenge-demo.png)
 
 
 ## Credits
